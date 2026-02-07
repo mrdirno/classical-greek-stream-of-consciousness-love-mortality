@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_stream_of_consciousness_love_mortality",
+  "title": "The Bruise of Time",
+  "tagline": "In ancient Greece, a wrestler's love for a beautiful stranger becomes a meditation on desire, memory, and the mortal body.",
+  "target_words": 70000,
+  "actual_words": 74660,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Body as Archive",
+    "Love as a Contested Space",
+    "The Fluidity of Time",
+    "Mortality in the Flesh"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River of Time",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Covenant in Contusion",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Oak and the Willow",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Harbour",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "The Language of Push and Pull",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "The Feast of Words",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Shadow of the Ship",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "The Oracle's Smoke",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The Festival of Dionysus",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "The Mask and the Face",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Plague of Distance",
+      "words": 3300
+    },
+    {
+      "ch": 12,
+      "title": "The Clay Tablet",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "The Spartan's Warning",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "The Dream of Miletus",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Funeral Games",
+      "words": 3500
+    },
+    {
+      "ch": 16,
+      "title": "The Bruise Fades",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Storm at Sea",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "The Empty Palaestra",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Memory of Sand",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Father's House",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "The Unwritten Law",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "The Last Wrestle",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "The Colour of Distance",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Silence We Built",
+      "words": 2900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from Philo's perspective, using the same stream-of-consciousness style, as he travels to the harbour and contemplates his own exile, beauty, and the mark Leander left on him.",
+      "Expand on Damon's character. Write a scene where he confronts Leander about his obsession, drawing from his own understanding of love, duty, and the city's expectations.",
+      "Create a 'found text'—a clay tablet, a torn scroll, a philosopher's fragment—that comments on the nature of desire and mortality, discovered by Leander or Philo.",
+      "Write the scene of the Spartan trainer's youth, exploring the discipline of the body and the suppression of emotion, casting a new light on his observation of Leander and Philo."
+    ],
+    "technical": [
+      "Build an interactive 'mote of dust' visualization where each spinning particle contains a fragment of Leander's memory, forming a navigable cloud of his consciousness.",
+      "Create a text generator that mimics the novel's prose style: short, sensory sentences blending classical imagery with modern psychological depth, using the opening chapter as a seed."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf",
+      "Marguerite Yourcenar",
+      "Yukio Mishima",
+      "Anne Carson"
+    ]
+  },
+  "cover_prompt": "A solitary, muscular Greek wrestler in a moment of profound stillness, his oiled body bearing the vivid purple and yellow map of old bruises and fresh contests, his gaze turned inward in a stream of consciousness reverie, [Detailed Scene & Context: on the sun-bleached limestone edge of a palaestra at dusk, the ghostly, translucent impression of a beautiful stranger's form shimmering beside him like a memory made flesh, their figures almost merging, with scattered pomegranate seeds and a broken clay lamp on the ground symbolizing spilled time and desire], [Artistic Style & Medium: in the atmospheric, textured, and melancholic style of Anselm Kiefer, with the physicality of Lucian Freud, realized in thick, sculptural oil impasto and layered mixed media on rough canvas], [Composition & Camera: book cover framing, an intimate and centered composition that crops tightly on the intertwined physical and ethereal forms, a dramatic low-angle shot looking up at the wrestler's bowed head against the vast sky], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single source of warm, dying sunset light cutting across the scene, casting long, soft shadows, within a palette of bruised purples, earthy ochres, pale marble white, and deep blood red, all fading into twilight indigo], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
