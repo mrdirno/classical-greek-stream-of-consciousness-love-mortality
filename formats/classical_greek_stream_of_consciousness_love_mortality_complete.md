@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The river is not water but time, and I am wading through its cold middle, the silt of forgotten days sucking at my ankles. Above, the sun is a white coin hammered flat by a god’s thumb, and it beats upon my head, a bronze bell struck without end. I am walking to the wrestling ground. My feet know the way from the city gate, past the potters’ quarter where the kilns breathe their dry, clay-scented breath, past the wall where old men sit like crows on a line, their voices the scratch of dry reeds. I do not see them. I see the dust. Each mote is a world spinning in the column of light that falls between the whitewashed walls. I am thinking of his shoulder.
@@ -75,6 +77,8 @@ Home. The courtyard, the fig tree, the smell of herbs and stew. My father asks a
 In my room, on my simple cot, I lie in the dark. The house sleeps. The city murmurs. I press the heel of my hand against my own shoulder, hard, until the pain blossoms. A dull, private echo. I imagine the colour it will make tomorrow. A poor copy. A solitary covenant.
 
 The river of time flows through the dark. I am still wading. But now I am aware of the current, cold and relentless, pulling at my knees, urging me toward a sea I cannot see. And in my mind, against the black, I paint a shoulder. I paint it with the careful, desperate strokes of a man who has just realized he is an artist, and his medium is perishable. I paint it with ochre and wine-dark purple. I paint it until sleep comes, a silent wrestler, and pins me fast.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -193,6 +197,8 @@ And then, from the path below, a laugh. A group of ephebes, young men our age, c
 The moment is gone, but its shape remains, etched into the air between us. We walk back down as the first stars prick the violet sky. We do not speak of it. We speak of the Spartan’s temper, of a new poet from Thebes, of trivial things. But every word is a code. Every glance is a translation.
 
 That night, I do not dream of smoke. I dream I am on the hill, and the city below is not Athens, but a vast, intricate version of the bruise on his shoulder—swirls of violet, green, ochre, pulsing with a slow, mortal light. And I am both within it and above it, both the maker and the witness, until the light fades, not to black, but to the relentless, colourless grey of dawn. I wake with the taste of the inevitable on my tongue. Sweet, and full of salt.
+
+# Chapter 3
 
 ## **Chapter 3**
 
